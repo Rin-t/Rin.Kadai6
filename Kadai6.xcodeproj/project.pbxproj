@@ -15,7 +15,7 @@
 		24388A1526C0E962002ED0DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24388A1326C0E962002ED0DB /* LaunchScreen.storyboard */; };
 		24388A2026C0E963002ED0DB /* Kadai6Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24388A1F26C0E963002ED0DB /* Kadai6Tests.swift */; };
 		24388A2B26C0E963002ED0DB /* Kadai6UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24388A2A26C0E963002ED0DB /* Kadai6UITests.swift */; };
-		24388A3A26C0EDE4002ED0DB /* SliderGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24388A3926C0EDE4002ED0DB /* SliderGame.swift */; };
+		24388A3A26C0EDE4002ED0DB /* NumberGessingGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24388A3926C0EDE4002ED0DB /* NumberGessingGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +50,7 @@
 		24388A2626C0E963002ED0DB /* Kadai6UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Kadai6UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		24388A2A26C0E963002ED0DB /* Kadai6UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kadai6UITests.swift; sourceTree = "<group>"; };
 		24388A2C26C0E963002ED0DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		24388A3926C0EDE4002ED0DB /* SliderGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderGame.swift; sourceTree = "<group>"; };
+		24388A3926C0EDE4002ED0DB /* NumberGessingGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberGessingGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,7 +134,7 @@
 		24388A3B26C0EDEB002ED0DB /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				24388A3926C0EDE4002ED0DB /* SliderGame.swift */,
+				24388A3926C0EDE4002ED0DB /* NumberGessingGame.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -307,7 +307,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				24388A3A26C0EDE4002ED0DB /* SliderGame.swift in Sources */,
+				24388A3A26C0EDE4002ED0DB /* NumberGessingGame.swift in Sources */,
 				24388A0D26C0E960002ED0DB /* ViewController.swift in Sources */,
 				24388A0926C0E95F002ED0DB /* AppDelegate.swift in Sources */,
 				24388A0B26C0E95F002ED0DB /* SceneDelegate.swift in Sources */,
